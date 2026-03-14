@@ -19,7 +19,7 @@ const config = {
 			checkOrigin: false,
 		},
 		paths: {
-			base: process.env.ENDPOINT,
+			base: "admin",
 		},
 	}
 };
